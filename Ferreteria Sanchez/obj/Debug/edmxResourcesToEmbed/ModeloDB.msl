@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ferreteria_sanchezModelStoreContainer" CdmEntityContainer="ferreteria_sanchezDB">
+    <EntitySetMapping Name="usuarios">
+      <EntityTypeMapping TypeName="ferreteria_sanchezModel.usuario">
+        <MappingFragment StoreEntitySet="usuarios">
+          <ScalarProperty Name="id_usuario" ColumnName="id_usuario" />
+          <ScalarProperty Name="nombre_usuario" ColumnName="nombre_usuario" />
+          <ScalarProperty Name="contrasena" ColumnName="contrasena" />
+          <ScalarProperty Name="tipo_user" ColumnName="tipo_user" />
+          <ScalarProperty Name="foto_user" ColumnName="foto_user" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

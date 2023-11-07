@@ -1,0 +1,31 @@
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\bin\Debug\Ferreteria Sanchez.exe.config
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\bin\Debug\Ferreteria Sanchez.exe
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\bin\Debug\Ferreteria Sanchez.pdb
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\bin\Debug\EntityFramework.dll
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\bin\Debug\Newtonsoft.Json.dll
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\bin\Debug\Twilio.dll
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\bin\Debug\EntityFramework.xml
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\bin\Debug\Newtonsoft.Json.xml
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\bin\Debug\Twilio.xml
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\obj\Debug\Ferreteria_Sanchez.Facturacion.resources
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\obj\Debug\Ferreteria_Sanchez.Menu.resources
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\obj\Debug\Ferreteria_Sanchez.Login.resources
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\obj\Debug\Ferreteria_Sanchez.Mensajes.resources
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\obj\Debug\Ferreteria_Sanchez.Principal.resources
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\obj\Debug\Ferreteria_Sanchez.Productos.resources
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\obj\Debug\Ferreteria_Sanchez.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\obj\Debug\Ferreteria_Sanchez.Reportes.resources
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\obj\Debug\Ferreteria_Sanchez.Usuarios.resources
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\obj\Debug\Ferreteria Sanchez.csproj.GenerateResource.cache
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\obj\Debug\Ferreteria Sanchez.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\obj\Debug\Ferreteria Sanchez.csproj.CopyComplete
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\obj\Debug\Ferreteria Sanchez.exe
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\obj\Debug\Ferreteria Sanchez.pdb
+C:\Users\David\Documents\Visual Studio 2019\Projects\Ferreteria Sanchez\Ferreteria Sanchez\obj\Debug\Ferreteria Sanchez.csprojAssemblyReference.cache
